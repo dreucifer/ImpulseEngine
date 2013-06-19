@@ -1,5 +1,7 @@
 Impulse Engine
+=====================
 Created by Randy Gaul
+Modified by dreucifer
 
 Impulse Engine is a small 2D physics engine written in C++. The engine is intended to be used in an educational manner by other looking to learn the inner workings of physics engines.
 
