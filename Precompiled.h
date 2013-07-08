@@ -35,10 +35,9 @@
 #undef min
 #undef max
 
-#include <cstring> // strlen, memcpy, etc.
-#include <cstdlib> // exit
-#include <cfloat>  // FLT_MAX
-#include <vector>
+#include <string.h> // strlen, memcpy, etc.
+#include <stdlib.h> // exit
+#include <float.h>  // FLT_MAX
 
 #include "glut.h"
 #include "IEMath.h"
